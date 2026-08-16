@@ -1,0 +1,13 @@
+Hush Withdrawal Policy (Fictional Example)
+
+Creators may request a withdrawal once their available wallet balance reaches £50.
+
+Withdrawal requests are normally processed within 3 to 5 business days.
+
+A creator must have a verified account before requesting a withdrawal.
+
+If suspicious activity is detected, Hush may temporarily hold the withdrawal while the account is reviewed.
+
+Creators can view their withdrawal status from their wallet dashboard.
+
+Hush Support should be contacted if a withdrawal remains pending for more than 5 business days.
